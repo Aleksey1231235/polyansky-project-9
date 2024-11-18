@@ -1,0 +1,35 @@
+@media screen and (max-width: 1920px) {
+    .bottomLinks{
+        width: calc(70% + 20px);
+    }
+}
+
+@media screen and (max-width: 1890px) {
+    .bottomLinks{
+        width: calc(70% + 19px);
+    }
+}
+
+@media screen and (max-width: 1882px) {
+    .bottomLinks{
+        width: calc(70% + 16px);
+    }
+}
+
+@media screen and (max-width: 1875px) {
+    .bottomLinks{
+        width: calc(70% + 5px);
+    }
+}
+
+@media screen and (max-width: 1865px) {
+    .bottomLinks{
+        width: calc(70% + 4px);
+    }
+}
+
+@media screen and (max-width: 1855px) {
+    .bottomLinks{
+        width: 70%;
+    }
+}
